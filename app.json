@@ -14,7 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.testlogin-login",
+      "bundleIdentifier": "com.testlogin.test",
       "googleServicesFile": "./GoogleService-Info.plist"
     },
     "android": {
@@ -44,6 +44,14 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "97df966f-7242-4ede-aa40-d28c5f4e2103"
+      }
     }
   }
 }

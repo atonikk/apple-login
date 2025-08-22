@@ -28,13 +28,13 @@
         <key>CFBundleURLSchemes</key>
         <array>
           <string>myapp</string>
-          <string>com.testlogin-login</string>
+          <string>com.testlogin.test</string>
         </array>
       </dict>
       <dict>
         <key>CFBundleURLSchemes</key>
         <array>
-          <string>com.googleusercontent.apps.872591810327-n7sh63nqhvgnf4sg95uq77psommb8hb9</string>
+          <string>com.googleusercontent.apps.872591810327-jmcequ9ti9cvouki7577f3oaaddckmqo</string>
         </array>
       </dict>
     </array>
@@ -51,8 +51,6 @@
     </dict>
     <key>NSUserActivityTypes</key>
     <array>
-      <string>$(PRODUCT_BUNDLE_IDENTIFIER).expo.index_route</string>
-      <string>$(PRODUCT_BUNDLE_IDENTIFIER).expo.index_route</string>
       <string>$(PRODUCT_BUNDLE_IDENTIFIER).expo.index_route</string>
     </array>
     <key>UILaunchStoryboardName</key>
