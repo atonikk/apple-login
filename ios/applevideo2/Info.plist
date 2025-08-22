@@ -28,13 +28,13 @@
         <key>CFBundleURLSchemes</key>
         <array>
           <string>myapp</string>
-          <string>com.andrewheim.apple-video2</string>
+          <string>com.testlogin-login</string>
         </array>
       </dict>
       <dict>
         <key>CFBundleURLSchemes</key>
         <array>
-          <string>com.googleusercontent.apps.482753288030-p1dse7lum4t0v53ad0l2dnjc5mgjpm6q</string>
+          <string>com.googleusercontent.apps.872591810327-n7sh63nqhvgnf4sg95uq77psommb8hb9</string>
         </array>
       </dict>
     </array>
@@ -51,6 +51,7 @@
     </dict>
     <key>NSUserActivityTypes</key>
     <array>
+      <string>$(PRODUCT_BUNDLE_IDENTIFIER).expo.index_route</string>
       <string>$(PRODUCT_BUNDLE_IDENTIFIER).expo.index_route</string>
       <string>$(PRODUCT_BUNDLE_IDENTIFIER).expo.index_route</string>
     </array>

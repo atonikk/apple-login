@@ -14,7 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.andrewheim.apple-video2",
+      "bundleIdentifier": "com.testlogin-login",
       "googleServicesFile": "./GoogleService-Info.plist"
     },
     "android": {
